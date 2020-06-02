@@ -1,0 +1,67 @@
+<table border="0" cellpadding="0" cellspacing="0" style="background-color: #f6f6f6;width: 100%;">
+    <tr>
+        <td>&nbsp;</td>
+        <td style="display: block;Margin: 0 auto !important;max-width: 760px;padding: 10px;">
+            <div style="box-sizing: border-box;display: block;Margin: 0 auto;max-width: 750px;padding: 10px;">
+                <table style="background: #ffffff;border-radius: 3px;width: 100%;">
+                    <tr>
+                        <td style="box-sizing: border-box;padding: 20px; ">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 100%;border-spacing: 2px; font-size: 13px;">
+                                <tr>
+                                    <td>
+                                        <p style="font-weight: bold;font-size: 14px;">虚拟机配置/磁盘变更完成</p >
+                                        <p style="font-weight: bold;font-size: 14px;" th:text="${TAG}"></p >
+                                        <p style="font-weight: bold;font-size: 14px;">2、申请堡垒机、防火墙端口、域名、外网ip、漏洞扫描，请联系集团IT服务中心处理，电话82027777，邮箱ithelp_service@faw.com.cn</p >
+                                        <p style="font-weight: bold;">流程信息</p >
+                                        <table width="100%"  cellpadding="2" cellspacing="0"
+                                               style="width: 100%; margin-top: 16px; border-spacing: 2px; font-size: 13px;">
+                                            <tr>
+                                                <td style="background: #ecf1f4; text-align:center" width="10%">申请人</td>
+                                                <td style="background: #ecf1f4; text-align:center" width="30%">业务系统名称</td>
+                                                <td style="background: #ecf1f4; text-align:center" width="60%">流程</td>
+                                            </tr>
+
+                                            <tr>
+                                                <td style="text-align:center; border-bottom: 1px solid #ecf1f4" width="20%" th:text="${CREATOR_NAME}" />
+                                                <td style="text-align:center; border-bottom: 1px solid #ecf1f4" width="40%" th:text="${PROJECT_NAME}" />
+                                                <td style="text-align:center; border-bottom: 1px solid #ecf1f4" width="40%" th:text="${PROCESS_NAME}" />
+                                            </tr>
+                                        </table>
+                                        <p style="font-weight: bold;">虚拟机信息</p >
+                                        <table width="100%"  cellpadding="2" cellspacing="0"
+                                               style="width: 100%; margin-top: 16px; border-spacing: 2px; font-size: 13px;">
+                                            <tr>
+                                                <td style="background: #ecf1f4; text-align:center" width="15%">服务器名称</td>
+                                                <td style="background: #ecf1f4; text-align:center" width="15%">IP地址</td>
+                                                <td style="background: #ecf1f4; text-align:center" width="15%">操作系统</td>
+                                                <td style="background: #ecf1f4; text-align:center" width="10%"> CPU（核）</td>
+                                                <td style="background: #ecf1f4; text-align:center" width="15%"> 内存（GB）</td>
+                                                <td style="background: #ecf1f4; text-align:center" width="15%"> 系统盘（GB）</td>
+                                                <td style="background: #ecf1f4; text-align:center" width="15%"> 数据盘（GB）</td>
+                                            </tr>
+
+                                            <tr th:each="server: ${SERVERS}">
+                                                <td style="text-align:center" th:text="${server.remark}"/>
+                                                <td style="text-align:center" th:text="${server.managementIp}"/>
+                                                <td style="text-align:center" th:text="${server.os} + ${server.osVersion}"/>
+                                                <td style="text-align:center">
+                                                    <th:block th:text="${server.oldCpu}"/> -> <th:block th:text="${server.cpu}"/>
+                                                </td>
+                                                <td style="text-align:center">
+                                                    <th:block th:text="${server.oldMemory}"/> -> <th:block th:text="${server.memory}"/>
+                                                </td>
+                                                <td style="text-align:center" th:text="${server.systemDisk}"/>
+                                                <td style="text-align:center"> <th:block th:text="${server.oldDataDisk}"/> -><th:block th:text="${server.dataDisk}"/></td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </td>
+    </tr>
+</table>
+
