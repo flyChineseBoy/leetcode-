@@ -2,11 +2,31 @@ import java.util.*;
 import java.util.LinkedList;
 
 public class 周赛0308 {
-    public static int numOfMinutes(int n, int headID, int[] manager, int[] informTime) {
+    /*public static int numOfMinutes(int n, int headID, int[] manager, int[] informTime) {
         // 求这棵加权树的最长路径。
         // headId为根节点，如何找到所有manager中为headID的下标(Map<Integer,List>)。进行广度优先遍历
         // informTime为0的是叶子节点，可以去掉
+        int m=0;
+        class Node{
+            int index;
+            int value;
+            int res;
+        }
+        PriorityQueue<Node> queue = new PriorityQueue<Node>((Node a1,Node a2)->{
 
+            if( a1.res>a2.res  ){
+                return 1;
+            }
+            if( a1.res<a2.res  ){
+                return -1;
+            }
+            if( a1.value>a2.value ){
+                return 1;
+            }else if(a1.value < a2.value){
+                return -1;
+            }
+            return 0;
+        });
         int sum = 0;
         // 1、map保存 manager和对应的子节点
         Map<Integer,ArrayList<Integer>> map = new HashMap<Integer,ArrayList<Integer>>();
@@ -45,6 +65,6 @@ public class 周赛0308 {
 
     public static void main(String[] args) {
         System.out.println( numOfMinutes(11,4,new int[]{5,9,6,10,-1,8,9,1,9,3,4},new int[]{0,213,0,253,686,170,975,0,261,309,337}) );
-    }
+    }*/
 
 }
