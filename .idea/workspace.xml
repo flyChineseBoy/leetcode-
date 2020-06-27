@@ -1,241 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="478d3088-0cdd-402e-ade8-9a77f7fe3856" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode_notes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/CustomStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/DataStructure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/META-INF/JAVA学习.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/MinStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/RetreentLockTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Solution$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/TI491_连续子序列$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/TI491_连续子序列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/TI5382.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/TestQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti100.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti1103.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti120.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti121.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti1248.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti125.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti1392$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti1392$Solution02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti1392$StrHash.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti1392.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti139_单词拆分.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti155.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti169.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti18.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti200.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti202.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti23$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti23.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti231.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti233.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti26.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti264.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti28.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti3$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti300_找最长子序列.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti309_股票冷冻期.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti347.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti46.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5178$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5178.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5195$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5195.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti532.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5323$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5323.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5366$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5366.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5367$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5367.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5377.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5380$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5380.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5381$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5381.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5388$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5388.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5389$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5389.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5390.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti5391_记忆化DP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti53_动态规划入门$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti53_动态规划入门.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti55_跳跃游戏.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti61.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti673_最长子序列的个数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti68_字符串细节.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti785$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti785.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti79.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti923$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti923.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti_5403$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/Ti_5403.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/designPattern/SigleTon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/designPattern/SigleTon02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/designPattern/SigleTon03$SigleTonInstance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/designPattern/SigleTon03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/designPattern/SigleTon04$SigleTon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/designPattern/SigleTon04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/designPattern/SigleTon05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/designPattern/SigleTon06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/maximum69Number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/sort/HeapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/sort/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/sort/周赛0308.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/二叉树/Ti106_通过中序和后序.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/二叉树/Ti538_反序中序遍历.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/二叉树/Ti94_莫里斯遍历中序.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/二叉树/Ti_102_层次遍历二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/二叉树/Ti_105_通过前序和中序构造二叉树$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/二叉树/Ti_105_通过前序和中序构造二叉树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/二叉树/Ti_531_二叉树的直径.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/二叉树/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/二进制/Ti_461_汉明距离.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/动态规划/Ti198_打家劫舍.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/动态规划/Ti2$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/动态规划/Ti2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/动态规划/Ti221_最大正方形.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/动态规划/Ti409_最长回文子串.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/动态规划/Ti5405_异或相等数组.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/动态规划/Ti_5419_两个子序列的最大点积.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/动态规划/Ti_983_全年旅游最低票价.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/动态规划/面试题8_11_硬币数量问题.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/周赛$TweetCounts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/周赛.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/回溯法/Ti39_组合总和.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/回溯法/Ti47_全排列2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/回溯法/Ti_17电话号码$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/回溯法/Ti_17电话号码.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/图/Ti743$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/图/Ti743.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/图/Ti_1162_地图分析.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/图/Ti_5406.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/图/Ti_994_腐烂的橘子.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/春节赛4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/没搞定的/Ti_5410_课程安排$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/没搞定的/Ti_5410_课程安排.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/股票1$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/股票1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/股票2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/面试64.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/面试题56.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/面试题58.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JAVA学习/面试题62.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RetreentLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TI491_连续子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TI5382.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti1103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti1248.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti1392.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti139_单词拆分.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti231.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti233.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti264.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti300_找最长子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti309_股票冷冻期.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti347.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5195.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti532.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5323.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5366.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5367.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5377.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5380.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5381.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5388.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5389.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5390.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti5391_记忆化DP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti53_动态规划入门.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti55_跳跃游戏.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti673_最长子序列的个数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti68_字符串细节.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti785.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti79.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti923.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ti_5403.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/designPattern/SigleTon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximum69Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/Quicksort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/Ti106_通过中序和后序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/Ti538_反序中序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/Ti94_莫里斯遍历中序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/Ti_102_层次遍历二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/Ti_105_通过前序和中序构造二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/Ti_531_二叉树的直径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二叉树/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二进制/Ti_461_汉明距离.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/Ti198_打家劫舍.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/Ti2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/Ti221_最大正方形.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/Ti409_最长回文子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/Ti5405_异或相等数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/Ti_5419_两个子序列的最大点积.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/Ti_983_全年旅游最低票价.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/动态规划/面试题8_11_硬币数量问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/周赛.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/周赛0308.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/回溯法/Ti39_组合总和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/回溯法/Ti47_全排列2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/回溯法/Ti_17电话号码.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/Ti200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/Ti743.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/Ti_1162_地图分析.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/Ti_5406.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/Ti_994_腐烂的橘子.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/春节赛4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/没搞定的/Ti_5410_课程安排.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/股票1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/股票2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/面试64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/面试题56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/面试题58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/面试题62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/题解笔记.iml" afterDir="false" />
-    </list>
+    <list default="true" id="478d3088-0cdd-402e-ade8-9a77f7fe3856" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/图/Ti200.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="87" column="15" lean-forward="true" selection-start-line="87" selection-start-column="15" selection-end-line="87" selection-end-column="15" />
+            <state relative-caret-position="465">
+              <caret line="84" column="44" lean-forward="true" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -303,11 +69,6 @@
             <path>
               <item name="leetcode_notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_notes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_notes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -351,12 +112,20 @@
       <option name="presentableId" value="Default" />
       <updated>1591115150239</updated>
       <workItem from="1591115151733" duration="178000" />
-      <workItem from="1591115382506" duration="236000" />
+      <workItem from="1591115382506" duration="1083000" />
     </task>
+    <task id="LOCAL-00001" summary="2020_06_03:&#10;   首次上传">
+      <created>1591115746795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591115746796</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="424000" />
+    <option name="totallyTimeSpent" value="1261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="984" extended-state="6" />
@@ -391,6 +160,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2020_06_03:&#10;   首次上传" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020_06_03:&#10;   首次上传" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/DataStructure.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -411,8 +184,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/图/Ti200.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="87" column="15" lean-forward="true" selection-start-line="87" selection-start-column="15" selection-end-line="87" selection-end-column="15" />
+        <state relative-caret-position="465">
+          <caret line="84" column="44" lean-forward="true" selection-start-line="84" selection-start-column="44" selection-end-line="84" selection-end-column="44" />
         </state>
       </provider>
     </entry>
